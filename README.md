@@ -49,4 +49,4 @@ We will now plot the J values against the number of iterations
 Training Data with Univariate Linear Regression Fit
 
 Inference using the optimized 𝜃 values
-Now I have used the final values for 𝜃 to make predictions on profits in cities of 35,000 and 85,000 people. 
+Now I have used the final values for 𝜃 to make predictions on profits in cities of 40,000 and 83,000 people. 
